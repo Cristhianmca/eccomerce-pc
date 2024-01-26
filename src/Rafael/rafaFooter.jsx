@@ -1,5 +1,5 @@
 import React from "react"
-import './RafaFooter.css'
+import './rafaFooter.css'
 import ItemsContainer from "./ItemsContainer"
 import SocialIcons from "./SocialIcons"
 import { Icons } from "./Menus"
