@@ -1,9 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import RafaFooter from './Rafael/RafaFooter.jsx'
+
 import App from './App.jsx'
 import './index.css'
 import Slider from "./cristhian/Slider";
+import RafaFooter from './Rafael/RafaFooter.jsx'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -11,7 +12,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     
     <App />
     <Slider />
-    <RafaFooter/>
+    <RafaFooter />
 
   </React.StrictMode>,
 )
